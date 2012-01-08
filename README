@@ -1,7 +1,8 @@
 Intelligence Computational
 
-1 - Perceptron Simple
+Redes de Bases Radial y Mapas Auto-organizativos
+
+Para ver los ejercicio ver el archivo: gtp2_2010.pdf
 
 para correr el programa:
-  - posicionarse dentro de la carpeta '1-perceptron-simple-multicapa'
   - correr el comando  > ruby -I lib/ bin/runner
